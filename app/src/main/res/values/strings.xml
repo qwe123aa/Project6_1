@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project6_1</string>
+    <string name="btn_start">예약 시작</string>
+    <string name="radio_date">날짜설정(캘린더뷰)</string>
+    <string name="radio_time">시간설정</string>
+    <string name="btn_done">예약 완료</string>
+</resources>
